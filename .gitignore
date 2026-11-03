@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw data and optional mapping assets
+/data/*.txt
+/data/*.tsv
+/data/*.csv
+/data/*.geojson
+
+# Generated analysis outputs
+/fig*.png
+/*.csv
